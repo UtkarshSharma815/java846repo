@@ -7,4 +7,10 @@ class Calculator{
   {
     System.out.println("diff is"+(a-b));
   }
+  public void division(int a, int b)
+  {
+    System.out.println("quotient is"+(a/b));
+  }
+  
+  
 }
