@@ -7,4 +7,8 @@ class Calculator{
   {
     System.out.println("diff is"+(a-b));
   }
+  public void product(int a, int b)
+  {
+    System.out.println("product is"+(a*b));
+  }
 }
